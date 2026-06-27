@@ -42,7 +42,7 @@ h3 {
 
 /* Parágrafos */
 p {
-    margin-bottom: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif #151515 margin-bottom: 20px;
     font-size: 17px;
 }
 
@@ -56,7 +56,7 @@ ol li {
     margin: 20px 0 10px;
     padding: 15px;
     border-radius: 12px;
-    box-shadow: 0 5px 15px rgba(0,0,0,.15);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .15);
     transition: .3s;
 }
 
@@ -82,7 +82,7 @@ img {
     display: block;
     margin: 15px auto;
     border-radius: 12px;
-    box-shadow: 0 5px 15px rgba(0,0,0,.2);
+    box-shadow: 0 5px 15px rgba(0, 0, 0, .2);
 }
 
 /* Links */
@@ -108,7 +108,7 @@ section {
     padding: 20px;
     border-radius: 15px;
     margin-bottom: 30px;
-    box-shadow: 0 4px 12px rgba(0,0,0,.15);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, .15);
 }
 
 /* Linha separadora */
