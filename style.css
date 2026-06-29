@@ -7,7 +7,7 @@
 
 body {
     font-family: Arial, Helvetica, sans-serif;
-    background: #F69F24;
+    background-image: linear-gradient(to right, #f3930d 40%, #f5bc5b);
     color: #333;
     line-height: 1.6;
     max-width: 1100px;
